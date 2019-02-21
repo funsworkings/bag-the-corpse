@@ -1,2 +1,0 @@
-corpsa
-time to exqusitit 
