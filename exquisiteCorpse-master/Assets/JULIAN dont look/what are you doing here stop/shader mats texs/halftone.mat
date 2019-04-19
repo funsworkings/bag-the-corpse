@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: halftone
   m_Shader: {fileID: 4800000, guid: a5ffefec1889f410a9b3c5bed1dbf337, type: 3}
   m_ShaderKeywords: _GREYSCALE_ON
@@ -32,11 +33,11 @@ Material:
     - _Float11: 20
     - _Float7: 20
     - _cStrength: 1.5
-    - _colorStrength: 0.4470767
+    - _colorStrength: 0.4489967
     - _effectStrength: 1
-    - _frequency: 0.009958174
+    - _frequency: 0.009955277
     - _greyScaleStrength: 1
-    - _greyscale: -0.019206285
+    - _greyscale: -0.0011154413
     - _kStrength: 1.5
     - _mStrength: 1.5
     - _paper_like: 1
